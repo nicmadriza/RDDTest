@@ -1,0 +1,279 @@
+Flag1,Flag2,Flag3,Flag4,Flag5,Name,Address,City,State,Zip
+true,true,true,true,true,Angel Crandon,1550 Stuart Park,Schenectady,NY,12325
+true,true,true,true,true,Deck Annies,068 Kenwood Crossing,Omaha,NE,68110
+true,true,true,true,true,Maressa Pally,5892 Sage Parkway,Appleton,WI,54915
+false,false,false,true,false,Goldi Tubby,413 Hintze Park,Brockton,MA,02305
+false,false,false,true,false,Phoebe Soppett,230 Prairieview Way,Salt Lake City,UT,84152
+false,false,false,true,false,Benito Mulvaney,21349 International Hill,Santa Ana,CA,92725
+true,false,true,true,false,Dill Titchard,447 Susan Lane,Shawnee Mission,KS,66215
+true,false,true,true,false,Lorenza Naris,067 Bartillon Parkway,Chattanooga,TN,37410
+true,false,true,true,false,Willis Labarre,100 Sachs Court,East Saint Louis,IL,62205
+true,true,true,false,true,Otho Bearfoot,3266 Glacier Hill Trail,Gatesville,TX,76598
+true,true,false,false,false,Cher Cisec,41 Stoughton Road,San Jose,CA,95160
+true,true,false,false,false,Forester Luchetti,8000 Kipling Alley,Dayton,OH,45408
+true,true,false,false,false,Clari Hobbing,8 Amoth Way,Fairfield,CT,06825
+true,true,false,false,false,Modestia Weymont,56224 Raven Place,Detroit,MI,48224
+false,true,false,true,false,Tybie Frantsev,8 Blue Bill Park Pass,Portland,OR,97240
+false,true,false,true,false,Winfred McCooke,33 Di Loreto Drive,Toledo,OH,43666
+false,true,false,true,false,Bertine Greenless,64 Stephen Plaza,Des Moines,IA,50936
+true,true,false,false,false,Herta Cottie,512 Thackeray Hill,Oakland,CA,94611
+true,true,false,false,false,Eydie Byers,9964 Corscot Hill,Little Rock,AR,72215
+true,true,false,false,false,Hillel Occleshaw,8904 Dahle Center,Portland,OR,97255
+true,true,false,false,false,Gordan Sallery,75762 Oriole Drive,Glendale,CA,91205
+false,true,false,true,false,Gae Cant,5 Sloan Plaza,Nashville,TN,37250
+false,true,false,true,false,Willabella Gillbanks,55053 Independence Crossing,Washington,DC,20591
+true,false,true,true,false,Chrysa Ettridge,362 Chive Lane,Vancouver,WA,98682
+true,false,true,true,false,Denny Bassingham,5562 Randy Road,Wichita,KS,67205
+true,false,true,true,false,Tony Baterip,503 Melrose Drive,Bakersfield,CA,93305
+false,true,true,false,true,Englebert Churcher,24833 Prairieview Park,Chicago,IL,60641
+false,true,true,false,true,Kippie Siege,7 Lillian Court,Indianapolis,IN,46278
+false,true,true,false,true,Albert Berryann,9779 Pankratz Point,North Little Rock,AR,72199
+false,true,true,false,true,Burlie Doswell,18898 Harper Alley,Missoula,MT,59806
+false,false,true,true,false,Cy Gronaver,535 Lindbergh Road,Canton,OH,44760
+false,false,true,true,false,Denyse Rosencwaig,4255 Glendale Center,San Antonio,TX,78250
+false,false,true,true,false,Alvy Sperski,19354 Express Place,Migrate,KY,41905
+false,false,true,false,true,Jessalyn Baraclough,33261 Pearson Point,El Paso,TX,79994
+false,false,true,false,true,Gerard Marder,13 Artisan Center,Columbus,OH,43226
+false,false,true,false,true,Adelice Edgecumbe,9 Grayhawk Drive,Boca Raton,FL,33487
+false,false,false,false,true,Malvin Casiero,2 Bashford Court,Fresno,CA,93773
+false,false,false,false,true,Bonni Joron,12312 Toban Road,Nashville,TN,37215
+false,false,false,false,true,Davidde Talbot,66 Merchant Lane,Chicago,IL,60681
+true,false,true,true,true,Corine Raulin,42 Almo Street,Omaha,NE,68197
+true,false,true,true,true,Jaynell Flahy,9869 Jay Circle,Santa Barbara,CA,93111
+true,false,true,true,true,Chrystal Reside,27 Randy Parkway,Houston,TX,77085
+false,true,false,false,false,Leonid Sweynson,73440 Waxwing Point,Fort Pierce,FL,34981
+false,true,false,false,false,Irvin Greest,05 Service Street,Austin,TX,78769
+false,true,false,false,false,Krishnah Vannini,41 American Road,Sioux Falls,SD,57105
+false,false,true,true,true,Reggi Volleth,5628 Golf Drive,El Paso,TX,88569
+false,false,true,true,true,Antoinette Streatley,22 Schiller Lane,Denver,CO,80241
+false,false,true,true,true,Rinaldo Smuth,1924 Schmedeman Junction,Chicago,IL,60657
+false,false,true,true,true,Mara Reisenstein,6604 Mayfield Court,Rochester,NY,14624
+false,true,true,false,true,Clare O'Kerin,5 Oxford Lane,Lancaster,PA,17605
+false,true,true,false,true,Bondon Raitie,6 Forest Court,Irvine,CA,92612
+false,false,false,false,false,Irvine Peealess,86193 New Castle Hill,Milwaukee,WI,53263
+false,false,false,false,false,Blanch Duthie,705 Warrior Road,Boise,ID,83732
+false,false,false,true,false,Earlie Rumming,0962 Comanche Road,Decatur,GA,30033
+false,false,false,true,false,Cecily Hutchason,356 Northport Drive,Reston,VA,22096
+false,false,false,true,false,August Kopec,5 Towne Park,Phoenix,AZ,85072
+false,false,false,true,false,Alla De Beneditti,914 Tony Junction,Burbank,CA,91505
+true,true,false,false,true,Derron McGarrahan,0 Talmadge Street,Arlington,VA,22217
+true,true,false,false,true,Guillema Conwell,0290 Mesta Hill,Sacramento,CA,95852
+true,true,false,false,true,Fianna Leeburne,176 Towne Trail,Dallas,TX,75392
+false,true,true,false,true,Lynne Boate,21 Carioca Trail,Los Angeles,CA,90035
+false,true,true,false,true,Meghan Boot,6 Ilene Hill,Albuquerque,NM,87110
+false,true,true,false,true,Anitra Rousell,1450 Homewood Crossing,Dayton,OH,45403
+true,true,true,true,true,Gabriele Treves,371 Jenifer Road,Minneapolis,MN,55423
+false,false,false,true,false,Tedman Haswall,1 Redwing Place,Phoenix,AZ,85005
+false,false,false,true,false,Ingram Szwandt,7403 Golf Course Parkway,Shawnee Mission,KS,66225
+true,true,false,true,true,Filbert Salvatore,78 Packers Pass,Albany,NY,12242
+true,true,false,true,true,Victor Paget,7025 Warrior Plaza,York,PA,17405
+true,true,false,true,true,Allix Kirimaa,4992 Green Hill,Austin,TX,78759
+false,false,true,false,true,Brendis Indge,1501 Merry Circle,San Jose,CA,95133
+false,false,true,false,true,Donnie Klinck,08 Southridge Crossing,Corpus Christi,TX,78470
+false,false,false,true,false,Justis Guislin,99888 Main Court,Cincinnati,OH,45228
+false,false,false,true,false,Ase Ladell,52 Lotheville Street,Hampton,VA,23663
+false,false,false,true,false,Henryetta Gerbl,2849 Acker Hill,Atlanta,GA,31132
+false,true,true,false,true,Gayle Trengove,46228 Hanover Road,Amarillo,TX,79105
+false,true,true,false,true,Cecilia Jossel,4251 Atwood Point,Metairie,LA,70033
+false,true,true,false,true,Gracia Kennion,83 Corry Plaza,Los Angeles,CA,90040
+true,true,true,true,true,Aubine Burgne,62 Nova Alley,Richmond,VA,23237
+true,true,true,true,true,Dona MacCorley,38314 Schurz Circle,Orlando,FL,32819
+true,false,true,false,false,Mychal Grinikhin,02 Hanover Road,Colorado Springs,CO,80915
+true,false,true,false,false,Ax Grint,3 Cascade Center,Jacksonville,FL,32277
+true,false,true,false,false,Courtnay Tracey,39 Swallow Plaza,Salt Lake City,UT,84152
+true,false,true,false,false,Marielle Vittery,2649 Everett Crossing,Springfield,MO,65805
+true,false,true,true,false,Nickola Ingerith,6 Logan Trail,San Bernardino,CA,92405
+true,false,true,true,false,Fabian Shemmans,61958 8th Terrace,Terre Haute,IN,47812
+false,false,false,true,false,Kit Ivetts,22622 Rockefeller Park,Carlsbad,CA,92013
+false,false,false,true,false,Kirsteni Pavie,6 Mccormick Court,Albuquerque,NM,87195
+false,false,true,true,false,Elysee Pignon,437 Porter Plaza,Irvine,CA,92612
+false,false,true,true,false,Emmalyn Vaune,95226 3rd Crossing,Paterson,NJ,07505
+true,true,true,false,true,Rosemaria Wolford,13952 Hayes Point,Los Angeles,CA,90055
+true,true,true,false,true,Beret Ivanin,989 Butterfield Hill,San Antonio,TX,78291
+true,true,true,false,true,Jemmy Halversen,92 Hanover Way,Washington,DC,20062
+true,false,false,false,true,Dennison Camm,1816 Hansons Center,San Antonio,TX,78225
+true,false,false,false,true,Annabella Fahy,020 Hallows Point,Salt Lake City,UT,84145
+true,false,false,false,true,Klarrisa Pavier,236 Arkansas Center,Spokane,WA,99210
+true,true,true,true,false,Kelby Lacer,46118 Lien Parkway,Boston,MA,02216
+true,true,true,true,false,Chloette Plascott,11569 Dahle Park,Fort Worth,TX,76147
+true,true,true,true,true,Tom Nusche,2 Blue Bill Park Court,Saint Petersburg,FL,33715
+true,true,true,true,true,Christoph Fuller,832 Mifflin Street,Pensacola,FL,32595
+true,true,true,true,true,Janella Minillo,50 Artisan Alley,Saint Paul,MN,55103
+false,false,true,true,true,Sibilla Stollenwerck,43 Ohio Park,Jacksonville,FL,32236
+false,false,true,true,true,Stefanie Canto,6472 Blackbird Court,Schaumburg,IL,60193
+true,true,true,true,true,Nathalia Stampfer,36 Welch Park,Lubbock,TX,79410
+true,true,true,true,true,Harriett Carabet,2989 Forest Center,Little Rock,AR,72215
+true,true,true,true,true,Martie Yerborn,5952 Hintze Court,Seattle,WA,98166
+false,true,false,false,false,Barbra Janeczek,96 Mayfield Hill,Boise,ID,83716
+true,true,true,false,true,Edward Lehr,675 Goodland Avenue,Mobile,AL,36689
+true,true,true,false,true,Carlen Zimmer,744 Buena Vista Trail,Louisville,KY,40215
+true,true,true,false,true,Pascal Kahan,21715 High Crossing Place,Norfolk,VA,23514
+true,true,true,false,true,Tobe Purton,08922 Burrows Way,San Antonio,TX,78296
+true,false,true,true,false,Allegra Scotchmur,2 Oriole Drive,Pasadena,CA,91125
+true,false,true,true,false,Ethelred Howgego,022 Milwaukee Street,Annapolis,MD,21405
+true,false,false,true,false,Gard Pellatt,2608 Waywood Plaza,Topeka,KS,66642
+false,false,false,false,true,Joanne Wreford,673 Eastwood Point,Arlington,VA,22234
+false,false,false,false,true,Cobby Bagg,51773 Schiller Road,Kansas City,MO,64199
+false,false,false,true,true,Bernhard Boxill,896 3rd Plaza,Chattanooga,TN,37405
+false,false,false,true,true,Meghan Coy,596 Crownhardt Plaza,San Antonio,TX,78215
+true,false,false,false,true,Dave Bowdidge,1665 Dayton Avenue,Norfolk,VA,23509
+true,false,false,false,true,Allyce Schachter,132 Rigney Trail,New Haven,CT,06520
+true,false,false,false,true,Farlee Farndon,199 Tony Court,Richmond,VA,23272
+false,false,false,true,false,Lancelot Featherby,824 Bonner Plaza,Decatur,GA,30033
+false,false,false,true,false,Tabatha Hebson,5068 Fordem Park,El Paso,TX,79955
+false,false,false,true,false,Brigid Hebbron,1 Hovde Drive,Pittsburgh,PA,15250
+false,false,false,true,false,Deva De Beauchamp,37 Vidon Road,Detroit,MI,48206
+true,false,false,false,true,Wenda Seymour,0528 Artisan Drive,Youngstown,OH,44505
+true,false,false,false,true,Jeremiah Phillcock,633 Derek Way,Cedar Rapids,IA,52410
+true,false,false,false,true,Wiley Cluer,5888 Blue Bill Park Park,Huntington,WV,25775
+true,false,false,false,true,Rodina Musto,86 Old Gate Street,Lake Charles,LA,70616
+false,true,true,false,true,Allyn Melbury,11 Lakewood Crossing,Philadelphia,PA,19125
+false,true,true,false,true,Carolee Edkins,4 Miller Parkway,Evanston,IL,60208
+false,true,true,false,true,Valenka Woodroff,0754 Hazelcrest Avenue,Minneapolis,MN,55436
+false,true,true,false,true,Kevon MacShirrie,1288 Anthes Circle,Oakland,CA,94611
+true,false,true,true,false,Reinhard Medendorp,790 Kipling Way,Brockton,MA,02405
+true,false,true,true,false,Zaccaria Karlsson,545 Parkside Court,Mesquite,TX,75185
+true,false,true,true,false,Cristal Carse,4949 Karstens Point,Mobile,AL,36689
+true,true,true,true,false,Kordula Sollon,41 School Plaza,Everett,WA,98206
+true,true,true,true,false,Orlando Clac,03171 Sauthoff Alley,New Bedford,MA,02745
+true,true,true,true,false,Hailey Cobley,7284 Erie Street,Knoxville,TN,37995
+true,true,true,true,true,Elaine Gutierrez,2239 Crownhardt Parkway,Hartford,CT,06145
+true,true,true,true,true,Rosabella Fernely,294 Westend Pass,Saint Louis,MO,63167
+true,true,true,true,true,Baxy Bogace,35 Anhalt Junction,Portland,OR,97221
+true,false,false,false,false,Godwin Jerg,4 Claremont Street,Santa Ana,CA,92705
+true,false,false,false,false,Sherlock Baiss,7173 Algoma Junction,Chicago,IL,60691
+true,true,false,false,true,Fiona Luce,6423 Quincy Center,Everett,WA,98206
+true,true,false,false,true,Iseabal Hadlington,339 Magdeline Parkway,Saint Louis,MO,63116
+true,true,false,false,true,Mada Ahern,13389 Riverside Parkway,Sioux Falls,SD,57110
+true,false,true,true,true,Willamina Jeannot,40 North Center,Washington,DC,20088
+true,false,true,true,true,Brandi Juszczyk,0614 Golden Leaf Lane,Boston,MA,02216
+true,false,true,true,true,Coraline Atley,77 Summer Ridge Alley,Memphis,TN,38161
+true,false,true,true,true,Alma Janney,449 Melody Circle,Seattle,WA,98175
+false,true,false,true,true,Sydney Kibbe,09215 Marquette Lane,Bakersfield,CA,93311
+false,true,false,true,true,Vinnie Royse,4837 Oak Valley Trail,Humble,TX,77346
+false,true,false,true,true,Caryl Haton,14983 Straubel Junction,Springfield,IL,62723
+false,false,false,false,false,Horacio Mortel,1312 Arapahoe Center,El Paso,TX,88579
+false,false,false,false,false,Ashbey Heffernan,438 Valley Edge Way,San Antonio,TX,78210
+false,false,true,true,false,Felike Cobden,4497 Sauthoff Street,Pensacola,FL,32526
+false,false,true,true,false,Kassia Tingley,4 Corben Point,New Orleans,LA,70187
+false,true,false,true,true,Michale Riccard,3 Debs Place,Youngstown,OH,44555
+false,true,false,true,true,Yardley MacKean,0 Michigan Court,Virginia Beach,VA,23464
+false,true,false,true,true,Elane Baldung,7 Mitchell Drive,Kansas City,MO,64193
+false,true,true,true,false,Karlene Boase,0 Marquette Alley,Gatesville,TX,76598
+false,true,true,true,false,Gustavus Barnham,88 Blackbird Place,Portsmouth,NH,03804
+false,true,true,true,false,Marion Golland,6 Morrow Point,Gainesville,FL,32610
+false,true,true,true,false,Nadya Gobert,5502 Dakota Way,Huntsville,AL,35815
+true,true,false,false,true,Ashia Rolling,8 Northfield Point,Pasadena,CA,91117
+true,true,false,false,true,Charlotta Rosie,49 Forest Dale Drive,Albany,NY,12262
+false,false,true,false,true,Johnnie Macon,2653 Nevada Road,San Bernardino,CA,92415
+false,false,true,false,true,Stanislas Pucker,35851 Golf Course Way,Colorado Springs,CO,80920
+false,false,true,false,true,Kirbee Walmsley,6 Erie Place,Washington,DC,20029
+false,false,false,true,true,Reginald Rutherford,7033 Novick Street,El Paso,TX,79905
+false,false,false,true,true,Olivie Peyto,260 Golf Pass,Tulsa,OK,74133
+true,false,true,true,false,Brennan Foulkes,2287 Golf View Alley,Omaha,NE,68197
+true,false,true,true,false,Joseph Jerman,48 Drewry Junction,Honolulu,HI,96805
+true,false,true,true,false,Joanie Antognozzii,07 Sommers Plaza,Lawrenceville,GA,30245
+false,false,true,false,false,Sybilla Noone,712 Independence Pass,Lawrenceville,GA,30045
+false,false,true,false,false,Vikki Georgius,76 Independence Circle,Boulder,CO,80328
+false,false,true,false,false,Mel Pavey,894 Superior Junction,Newton,MA,02458
+true,true,true,true,true,Judi Gribbin,72 Karstens Park,Bethesda,MD,20892
+false,true,false,false,false,Frank Demeter,8279 Kings Place,Roanoke,VA,24040
+false,true,false,false,false,Bess Grishukov,4672 Sommers Court,New York City,NY,10170
+false,true,false,false,false,Tirrell Reeson,4977 Dorton Terrace,New York City,NY,10004
+true,true,true,true,true,Gena Wilbore,0163 Mariners Cove Lane,Tulsa,OK,74133
+true,true,true,true,true,Chere Stenners,50 Marcy Center,Charlotte,NC,28205
+true,true,true,true,true,Juieta Bruyntjes,91 Forster Drive,Fort Worth,TX,76115
+false,true,false,false,true,Dinnie Girogetti,02420 Sycamore Street,Spokane,WA,99210
+false,true,false,false,true,Coraline De Ortega,70 Spohn Avenue,Lakeland,FL,33805
+true,false,true,true,false,Feliza Harvett,35001 Maple Wood Point,Sacramento,CA,95818
+true,false,true,true,false,Ashlen Alejandro,08 Melvin Park,Salem,OR,97312
+true,false,true,true,false,Noella Rooney,054 Little Fleur Alley,Manchester,NH,03105
+false,true,false,false,false,Zackariah McColm,12 Merry Place,El Paso,TX,88514
+false,true,false,false,false,Barnett Rhule,8 Hansons Plaza,Chicago,IL,60641
+true,true,false,true,true,Natal Turfus,24 Troy Lane,Battle Creek,MI,49018
+true,true,false,true,true,Ramsey Mation,20956 Elmside Drive,Austin,TX,78726
+true,true,false,true,true,Ceciley Bartram,13 Miller Way,Lynn,MA,01905
+false,false,true,true,true,Sally Bealton,626 Homewood Pass,Denver,CO,80217
+false,false,true,true,true,Zachariah Tille,6 Cambridge Parkway,Monroe,LA,71208
+false,false,true,true,true,Lyn Streets,2 Express Point,Houston,TX,77060
+false,false,true,true,true,Rodolph Perutto,04158 Thierer Circle,Washington,DC,20540
+true,true,true,false,true,Marjory Dorracott,9040 Nevada Pass,Lawrenceville,GA,30245
+true,true,true,false,true,Eddi Liepins,325 Dovetail Circle,Houston,TX,77223
+true,true,true,false,true,Denyse Durning,030 Kedzie Park,Louisville,KY,40220
+false,true,true,true,true,Gregory Fotherby,53 Northfield Road,Monticello,MN,55585
+false,true,true,true,true,Howard Curneen,38 Northland Trail,Punta Gorda,FL,33982
+false,true,true,true,true,Jasun Struther,27965 Morning Plaza,Schaumburg,IL,60193
+false,true,true,true,true,Nefen Harget,92 Maple Wood Drive,Evanston,IL,60208
+false,true,false,false,true,Oliver Churn,75 Almo Court,Boston,MA,02124
+false,true,false,false,true,Pearline Dronsfield,6 Canary Hill,Charlotte,NC,28242
+false,true,false,false,false,Tobit Tattam,39158 Tony Junction,Evansville,IN,47712
+false,true,false,false,false,Jillana Rackam,76868 Drewry Park,Fort Lauderdale,FL,33315
+false,true,false,false,false,Dedie Thorby,03075 Independence Hill,Dallas,TX,75241
+false,false,true,false,true,Annecorinne Brodhead,3962 Springview Street,Memphis,TN,38136
+false,false,true,false,true,Rosabella Yakov,3 Homewood Place,Saint Louis,MO,63143
+false,false,true,false,true,Jacquelin Swatheridge,1 Buhler Circle,Minneapolis,MN,55458
+false,true,false,true,false,Celle Cutchie,34696 Laurel Park,Brooksville,FL,34605
+false,true,false,true,false,Hamel Pybus,7977 Gerald Avenue,Austin,TX,78764
+false,false,false,true,true,Nikos Antyukhin,5 Prairie Rose Alley,Fort Lauderdale,FL,33355
+false,false,false,true,true,Hal Eakins,1215 Lakewood Way,Pittsburgh,PA,15261
+false,false,false,true,true,Derrik Edmeads,3 Paget Park,Saint Paul,MN,55146
+false,false,false,true,true,Lorita Delamar,44739 Utah Lane,Pueblo,CO,81005
+false,true,true,false,true,Stewart Scranedge,19 Prairieview Center,Saint Paul,MN,55114
+false,true,true,false,true,Fabio Skitterel,83 Larry Road,Baltimore,MD,21281
+false,true,true,false,true,Dougie Janku,41 Green Center,Fort Smith,AR,72905
+false,true,true,false,true,Nester Aickin,5 Tomscot Road,Montgomery,AL,36104
+false,false,false,false,true,Ilsa Lesor,65 North Center,Philadelphia,PA,19115
+false,false,false,false,true,Meade Kenworth,8 Ryan Crossing,Flushing,NY,11355
+false,false,false,false,true,Rabi McCuffie,3 Carberry Drive,Washington,DC,20580
+false,false,false,false,true,Reyna Klimashevich,5 Basil Road,Kent,WA,98042
+false,true,false,true,false,Della Dunlop,07 Vermont Trail,Salt Lake City,UT,84199
+false,true,false,true,false,Donny Izchaki,2 Rieder Park,Fort Worth,TX,76121
+false,false,true,false,true,Alyda Kleint,1 Namekagon Center,Shawnee Mission,KS,66286
+false,false,true,false,true,Deina Donett,7 Corry Trail,Newark,NJ,07104
+false,true,true,true,true,Doloritas Cicullo,716 Arapahoe Lane,Minneapolis,MN,55487
+false,true,true,true,true,Nessi Gingedale,67599 Burrows Avenue,San Francisco,CA,94105
+false,true,true,true,true,Adelheid Hallam,56181 Armistice Junction,Dallas,TX,75221
+false,false,false,true,true,Raffarty Hugk,87 Carberry Plaza,New Haven,CT,06520
+false,false,false,true,true,Joshua Hawton,257 Quincy Drive,Conroe,TX,77305
+false,false,false,true,true,Latrina Obern,47865 Ohio Street,Akron,OH,44310
+false,false,true,true,false,Otis Roos,7 Monterey Hill,Albuquerque,NM,87180
+false,false,true,true,false,Joelly Cruden,5400 Milwaukee Terrace,North Little Rock,AR,72199
+false,false,true,true,false,Cassie Iacobassi,4214 Gateway Crossing,Port Saint Lucie,FL,34985
+false,true,true,true,true,Aron Keilty,1 Anthes Place,Terre Haute,IN,47805
+false,true,true,true,true,Lorrin Iacovino,2 Anzinger Parkway,Syracuse,NY,13210
+false,true,true,true,true,Arlene Simmins,62 Troy Circle,Tampa,FL,33633
+false,true,true,true,true,Daron Venning,586 Elgar Street,Denver,CO,80262
+false,true,false,true,true,Aguste Goulborn,07092 Coleman Point,Greeley,CO,80638
+false,true,false,true,true,Malanie Whight,004 Lakewood Gardens Plaza,Saint Paul,MN,55146
+false,true,false,true,true,Adorne Tottman,40652 Westridge Lane,Rochester,MN,55905
+true,false,true,false,true,Munroe Slaughter,0537 Sunnyside Way,Portsmouth,NH,00214
+true,false,true,false,true,Errol Fibbings,9106 Springs Pass,San Antonio,TX,78210
+true,false,true,false,true,Petronille Bloomer,153 Del Mar Road,Honolulu,HI,96850
+false,true,false,true,false,Feodora Cockshtt,406 Lyons Circle,Memphis,TN,38114
+false,true,false,true,false,Karita Rehorek,45110 Judy Plaza,Charleston,WV,25313
+false,true,false,true,false,Abbie Auty,4 Mitchell Avenue,Bronx,NY,10474
+false,false,false,false,false,Emmett MacKean,16 Little Fleur Road,Wilmington,DE,19810
+false,false,false,false,false,Talbot Ghilardi,7 Warner Plaza,Saint Louis,MO,63158
+true,true,true,true,true,Luke Yemm,5 Laurel Plaza,Atlanta,GA,31119
+true,true,true,true,true,Morna Tongue,31 Marquette Street,San Francisco,CA,94159
+true,false,false,false,false,Margaux Dockree,046 Petterle Parkway,Syracuse,NY,13224
+true,false,false,false,false,Winnie Carney,84 Dunning Circle,Jackson,TN,38308
+true,false,false,false,false,Kissee Church,3415 Chive Alley,Dallas,TX,75323
+false,false,false,false,true,Cinnamon Manneville,16 Bunting Junction,Pittsburgh,PA,15250
+false,false,false,false,true,Yurik Aleso,1975 Goodland Point,Tuscaloosa,AL,35487
+false,false,false,false,true,Del Bernardotte,39 Hazelcrest Road,Austin,TX,78710
+true,true,false,false,false,Ermanno Pottle,28184 Schiller Park,North Little Rock,AR,72199
+true,true,false,false,false,Emmet Reeder,48 Dottie Avenue,Englewood,CO,80150
+true,true,false,false,false,Darryl Hamor,0 Myrtle Drive,Manchester,NH,03105
+false,true,true,false,true,Layton Creech,49 Sycamore Alley,Houston,TX,77085
+false,true,false,false,false,Andromache Eaken,4294 Elgar Street,Amarillo,TX,79105
+true,true,true,true,false,Bertina Le Estut,7477 Vahlen Parkway,Houston,TX,77065
+true,true,true,true,false,Esma Leaf,3 Carey Lane,Phoenix,AZ,85040
+true,true,true,true,false,Bambie Corss,44 Bluejay Parkway,Buffalo,NY,14215
+true,true,true,true,false,Jory Forrester,5 Brickson Park Pass,Elizabeth,NJ,07208
+false,false,true,true,false,Buiron Cranmor,51 Bunting Park,Albany,NY,12262
+false,false,true,true,false,Sean Garz,7 Kedzie Plaza,Detroit,MI,48295
+false,false,true,true,false,Normy Nettleship,3973 Nobel Pass,Lexington,KY,40591
+false,false,true,true,false,Parke Alsford,1328 Talisman Drive,Racine,WI,53405
+false,false,true,true,false,Nikos Russ,20336 Scoville Hill,San Antonio,TX,78210
+false,false,true,true,false,Candida Sineath,0 Brentwood Place,Grand Junction,CO,81505
